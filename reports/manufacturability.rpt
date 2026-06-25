@@ -1,0 +1,19 @@
+Design Name: encoder_1024_10
+Run Directory: /openlane/designs/encoder_1024_10/runs/RUN_2026.06.25_06.32.55
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/encoder_1024_10/runs/RUN_2026.06.25_06.32.55/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/encoder_1024_10/runs/RUN_2026.06.25_06.32.55/logs/signoff/37-encoder_1024_10.lef.lvs.log
+Number of nets: 4336                       |Number of nets: 4336                       
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/encoder_1024_10/runs/RUN_2026.06.25_06.32.55/logs/signoff/39-arc.log
+Pin violations: 131
+Net violations: 111
